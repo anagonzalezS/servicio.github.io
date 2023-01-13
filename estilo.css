@@ -6,6 +6,7 @@
 
 #foto {
     width:100%;
+    background: url(..img//portada.jpg)
 
 }
 .principal{
@@ -13,7 +14,7 @@
     padding: 20px;
 
 }
-.titulo-entralizado{
+.titulo-centralizado{
     text-align: center;
 }
 
