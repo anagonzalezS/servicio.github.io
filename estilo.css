@@ -1,12 +1,13 @@
 .titulo-principal{
     padding-left: 30px;
     background-color: #4169E1;
+    padding: 20px;
 
 }
 
 #foto {
     width:100%;
-    background: url(..img//portada.jpg)
+   
 
 }
 .principal{
@@ -15,11 +16,14 @@
 
 }
 .titulo-centralizado{
+    padding-left: 20px;
     text-align: center;
+    
 }
 
-p{
+.titulo-principal{
     text-align: center;
+    color:#ffffff
    
 }
 
@@ -32,7 +36,9 @@ strong{
     font-size: 20px;
 }
 .servicios{
-    background:#ffffff
+
+    background-color:#FFFAFA;
+   
 }
 h2{
     text-align: center;
@@ -61,7 +67,7 @@ ul{
     cursor: pointer;
     border-radius:100px !important;
     }
-.img.btn-whatsapp:hover{
+.btn-whatsapp:hover{
     border-radius:100px !important;
     -webkit-box-shadow: 0px 0px 15px 0px rgba(7,94,84,1); 
     -moz-box-shadow: 0px 0px 15px 0px rgba(7,94,84,1);
